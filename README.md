@@ -1,120 +1,175 @@
 # Hi there!  👋 I'm SyntaxAdi
 
-Welcome to my GitHub profile! I'm a **Student Developer** and **Independent Programmer** specializing in **Python-driven automation**, **intelligent Telegram bot development**, and **deploying machine learning models**. I build solutions that work in the real world. 
+I design and build automation-driven software using Python — Telegram bot infrastructures, backend services, and machine learning deployments. My focus is creating practical systems that solve real problems without unnecessary complexity.
 
-## 🚀 About Me
+## About Me
 
-I'm a versatile developer with deep expertise in Python and a passion for practical engineering.  From sophisticated Telegram automation workflows to deploying ML models on Hugging Face, I thrive on solving complex problems with clean, efficient code.
+I build automation systems and backend tools using Python.  
+Most of my work revolves around designing reliable Telegram bot infrastructures, building API-driven services, and deploying machine learning models.
 
-- 🎓 Student Developer with hands-on experience building production systems
-- 🐍 **Python specialist** — automation, APIs, bots, ML, scripting
-- 🤖 Building intelligent **Telegram bots & userbots** with real-world capabilities
-- 🔌 Backend architect designing scalable services with **FastAPI**
-- 🧠 Deploying & optimizing **ML models** via Hugging Face & Gradio
-- 💼 Independent programmer with practical DevOps & cloud experience
-- 🎯 Focused on turning concepts into production-ready solutions
-- 🤝 Open to collaboration, freelance projects, and challenging opportunities
+My focus is practical engineering — turning complex workflows into systems that run autonomously and scale reliably.
 
-## 💻 Technical Arsenal
+Technically, I work across:
+- Python automation and bot frameworks (Telethon)
+- Backend service development with FastAPI
+- API integrations and workflow orchestration
+- ML model deployment with Hugging Face and Gradio
+- DevOps and Linux-based deployment environments 
 
-### 🔥 Core Languages
-| Language | Expertise | Use Cases |
-|----------|-----------|-----------|
-| ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white) | **Expert** | Automation, APIs, bots, ML, scripting |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | **Advanced** | Frontend logic, backend services, interactive UIs |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | **Intermediate** | Type-safe backend & frontend development |
-| ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) | **Functional** | MySQL, MongoDB queries & schema design |
-| ![HTML/CSS](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) | **Functional** | Semantic markup, responsive styling |
+## Technical Stack
 
-### 🛠️ Frameworks & Libraries (My Strongest)
+![Languages](https://img.shields.io/badge/LANGUAGES-0d1117?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Backend & APIs**
-- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) — High-performance REST APIs, async operations, auto-generated docs
-- Node.js / Express — Backend services, middleware, routing
+![Frontend](https://img.shields.io/badge/FRONTEND-0d1117?style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**🤖 Telegram Automation (Specialized)**
-- ![Telethon](https://img.shields.io/badge/Telethon-0088cc?style=flat-square) — MTProto client library, advanced bot automation, session management
-- ![Pyrogram](https://img.shields.io/badge/Pyrogram-0088cc?style=flat-square) — Telegram bot framework, elegant API, user automation
+![Backend](https://img.shields.io/badge/BACKEND-0d1117?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=flat-square&logo=aiohttp&logoColor=white)
 
-**Web & Data Apps**
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) — Component logic, state management, animations, window managers
-- ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) — Rapid prototyping, data apps, media serving
+![Bots](https://img.shields.io/badge/TELEGRAM%20%26%20BOTS-0d1117?style=flat-square)
+![Telethon](https://img.shields.io/badge/Telethon-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+![Pyrogram](https://img.shields.io/badge/Pyrogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 
-**Machine Learning & Model Deployment**
-- ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) — Model hosting, inference, model management
-- ![Gradio](https://img.shields.io/badge/Gradio-FB7500?style=flat-square) — Interactive ML inference UIs, demo apps, performance optimization
+![AI/ML](https://img.shields.io/badge/AI%20%26%20ML-0d1117?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### 🔧 DevOps & Infrastructure
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) — Containerization, deployment, orchestration
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) — Version control, branching, collaboration
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) — CLI mastery, shell scripting, system administration
-- ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) — ML experimentation, GPU utilization
+![Scraping](https://img.shields.io/badge/SCRAPING%20%26%20AUTOMATION-0d1117?style=flat-square)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-59666C?style=flat-square&logo=python&logoColor=white)
+![yt-dlp](https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white)
+![cloudscraper](https://img.shields.io/badge/cloudscraper-333333?style=flat-square&logo=python&logoColor=white)
 
-### 📦 Databases & Storage
-- **MySQL** — Relational data, queries, indexing
-- **MongoDB** — Document storage, flexible schemas
-- **Redis** — Caching, real-time data
-- **Telegram Cloud** — Files, media, distributed storage
+![Databases](https://img.shields.io/badge/DATABASES-0d1117?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-## 📊 Featured Projects
+![DevOps](https://img.shields.io/badge/DEVOPS-0d1117?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 
-### 🤖 [Telegram Automation & Userbots](https://github.com/SyntaxAdi/telegram-bots)
-*Advanced Telegram automation using MTProto protocol for real-world workflows*
-- **Tech Stack:** Python, Telethon/Pyrogram, FastAPI, session management
-- **Key Features:** 
-  - User session generation & authentication
-  - Advanced file handling & media processing
-  - Workflow automation & batch operations
-  - Scalable bot architecture with real-time handling
-- **Highlights:** Built multiple production bots handling thousands of operations
-- **Status:** Active development & refinement
+![Cloud](https://img.shields.io/badge/CLOUD-0d1117?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![HF Spaces](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-### 📡 [Pseudo-CDN via Telegram + Streamlit](https://github.com/SyntaxAdi/telegram-cdn)
-*Lightweight content delivery system using Telegram as storage backend*
-- **Tech Stack:** Python, Streamlit, Telegram API, Base64 encoding
-- **Key Features:**
-  - Upload files to Telegram channels securely
-  - Serve content via encoded URLs with direct links
-  - Lightweight alternative to traditional CDNs
-  - Simple, no-backend architecture
-- **Use Case:** Perfect for static assets, media distribution, file sharing
-- **Status:** Fully functional & tested
+## Featured Projects
 
-### 🧠 [ML Model Hosting & Gradio Optimization](https://github.com/SyntaxAdi/ml-deployment)
-*Deploying large Hugging Face models with custom Gradio interfaces*
-- **Tech Stack:** Python, Hugging Face, Gradio, Google Colab, Drive storage
-- **Key Features:**
-  - Large model deployment on free GPU tier (Colab)
-  - Drive-based storage for model persistence
-  - Custom Gradio apps for performance & UX
-  - Batch inference & real-time inference pipelines
-- **Experiments:** Multiple model types (NLP, vision, multimodal)
-- **Highlights:** Optimized interfaces for speed & usability
-- **Status:** Ongoing experimentation & refinement
+### [ArthSaathi](https://github.com/SyntaxAdi/ArthSaathi)
+*AI-powered personal finance web app for Indian youth — hackathon build, deployed on Vercel*
+
+**Stack:** React 18, Vite 5, Tailwind CSS, Framer Motion, Supabase (PostgreSQL + Auth + RLS), Groq API (LLaMA 3.3 70B), React Router DOM v7
+
+- Financial health score algorithm factoring savings rate, EMI ratio, and spending patterns
+- LLM coach powered by LLaMA 3.3 70B via Groq; receives the user's full exported report as prompt context
+- AI-suggested goals importable directly into the tracker with one click
+- Supabase RLS enforces data isolation per user at the database level; persistent chat history synced cross-device
+- Full multilingual UI: English, Hindi, Tamil, Marathi — with per-user currency and number system settings
+
+---
+
+### [Kali-Portfolio](https://github.com/SyntaxAdi/Kali-Portfolio)
+*Personal portfolio built as a Kali Linux desktop simulation*
+
+**Stack:** React 19, Vite 7, Tailwind CSS, Framer Motion, shadcn/ui, Lucide React
+
+- Finite state machine in `App.jsx`: quote → boot → login → desktop → shutdown, each with Framer Motion `AnimatePresence` transitions
+- `WindowManagerContext` tracks open windows, focus order, and stacking position offsets
+- Animated kernel boot log sequence with sequential lines and progress bar
+- CRT glow, scanline, typing, and cursor-blink CSS animations
+- Wallpaper cycling, Activities-panel app launcher, and animated shutdown/restart sequences
+
+---
+
+### [Media-Downloader](https://github.com/SyntaxAdi/Media-Downloader)
+*Async Telegram bot downloading media from 20+ platforms via modular per-site handlers*
+
+**Stack:** Python, Telethon, asyncio, yt-dlp, gallery-dl, cloudscraper, pymongo, aiohttp, httpx, Pillow, BeautifulSoup4
+
+- Entry point `akeno.py` dynamically loads all modules from `Modules/` at startup
+- Per-platform handlers: Instagram, TikTok, YouTube, Twitter, Reddit, Pinterest, DeviantArt, Threads, and others
+- Shazam music recognition module (`Shazam.py`) and direct song download support
+- CDN module with Pillow resizing/compression for files exceeding Telegram's 10MB upload limit
+- Anti-spam with per-user cooldown tracking, force-subscribe gate, and admin tools for remote update, restart, and log access
+
+---
+
+### [Udemy-Auto-Enroller](https://github.com/SyntaxAdi/Udemy-Auto-Enroller)
+*Telegram bot that scrapes five course aggregators in parallel and auto-enrolls users in free Udemy courses*
+
+**Stack:** Python, Telethon, asyncio, aiohttp, motor (async MongoDB), BeautifulSoup4, lxml, cloudscraper, python-dotenv
+
+- Async parallel scraping across: Discudemy, Udemy Freebies, Real Discount, Tutorial Bar, Course Vania
+- Course expiry validated before enrollment — filters dead deals before hitting the Udemy API
+- Session-scoped credentials collected via `/login` command flow; never stored persistently
+- Real-time enrollment progress updates sent in Telegram; per-user savings and stats tracking
+- Daily rate limits, channel subscription gate, and admin usage reporting
+
+---
+
+### [Word-Grid-Solver-Web](https://github.com/SyntaxAdi/Word-Grid-Solver-Web)
+*Flask web app that solves word-search puzzles from uploaded images*
+
+**Stack:** Python 3.9, Flask 3.0, Werkzeug, Requests, Vanilla JS/CSS, Docker (port 7860)
+
+- Drag-and-drop image upload; grid extracted via remote Lambda-hosted OCR API (base64-encoded)
+- 8-directional grid search (all 4 axes + diagonals) with jagged array handling
+- Clue-based constraint solving — parses `A---- (5)` into start character + length pairs
+- Validated against the dwyl English word list with custom slang additions; degrades gracefully if download fails
+- `solver.py` decoupled from Flask — also runnable as a standalone CLI tool; Dockerized with Python 3.9-slim
+
+---
+
+### [Personal-Portfolio](https://github.com/SyntaxAdi/Personal-Portfolio)
+*Minimal static portfolio — no framework, no build step*
+
+**Stack:** HTML5, CSS3, Vanilla JS, Vercel
+
+- Entire site self-contained in a single 43KB `index.html` with embedded CSS and JS
+- Stack coverage: Python, FastAPI, Flask, React, Telethon, Pyrogram, Docker, MongoDB, Redis, Firebase, Supabase, AWS, Azure
+- Rotating anime/motivational quotes; `vercel.json` with SPA-style routing
 
 ## 📈 GitHub Stats
 
 ![SyntaxAdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyntaxAdi&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/? username=SyntaxAdi&layout=compact&theme=dark&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxAdi&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 ## 🎯 What I'm Currently Working On
 
-- 🤖 **Telegram Automation** — Building advanced userbots with complex workflows
-- 🔌 **Backend Services** — Designing scalable FastAPI systems for automation
-- 📡 **Content Delivery** — Expanding Telegram-based CDN capabilities
-- 🧠 **ML Experimentation** — Deploying and optimizing models on Hugging Face
-- 📚 **System Design** — Mastering scalability patterns & production architectures
-
-## 💡 What I Specialize In
-
-| Area | Expertise | Real Examples |
-|------|-----------|--------------|
-| **🤖 Telegram Automation** | Building intelligent bots & userbots with MTProto | Session generation, file handling, batch automation |
-| **📡 Content Delivery** | Lightweight CDN solutions using cloud platforms | Telegram-based CDN, URL encoding, file serving |
-| **🧠 ML Deployment** | Hosting & serving models with custom UIs | Hugging Face models, Gradio optimization, Colab hosting |
-| **🔌 Backend Systems** | Designing scalable APIs & microservices | FastAPI services, async operations, real-time systems |
-| **⚡ Performance** | Writing efficient, production-grade code | Optimization, caching, load handling |
+- **LLM Applications** — Building AI-powered tools with Gemini and Groq for real academic and client use cases
+- **Telegram Bot Architecture** — Expanding async modular bot systems with broader platform and media support
+- **Student Startup** — Co-founding an AI consultancy delivering LLM integrations and automation pipelines for clients
+- **Backend Engineering** — Designing and maintaining production FastAPI services with async data pipelines
+- **ML Deployment** — Experimenting with model hosting, Gradio interfaces, and inference optimization on free-tier infrastructure
 
 ## 🤝 Let's Connect! 
 
@@ -178,6 +233,6 @@ Explore my repositories to see what I'm building.  Feel free to reach out — le
 
 *Building intelligent systems, one line of code at a time. * 🚀
 
-**Last Updated:** December 21, 2025
+**Last Updated:** March 15, 2026
 
 </div>
