@@ -182,11 +182,10 @@ Testing model hosting setups using Hugging Face, Gradio interfaces, and free GPU
 
 ## 🤝 Let's Connect! 
 Open to collaborating on interesting technical projects, discussing engineering ideas, or exploring new opportunities.
-- **💼 LinkedIn:** [Coming soon]
-- **🐦 Twitter/X:** [Coming soon]
-- **📧 Email:** [Your email here]
-- **💬 Telegram:** [Your handle here]
-- **🌐 Portfolio:** [Coming soon]
+- **💼 LinkedIn:** [aaditya-pawar2004](https://www.linkedin.com/in/aaditya-pawar2004)
+- **📧 Email:** [aadityapawar00001@gmail.com](mailto:aadityapawar00001@gmail.com)
+- **💬 Telegram:** [@ItzAditya_xD](https://t.me/ItzAditya_xD)
+- **🌐 Portfolio:** [akenochan.my.id](https://akenochan.my.id)
 
 **Available for:**
 - 🎯 Freelance projects (bots, APIs, ML models, content delivery)
