@@ -161,22 +161,23 @@ Technically, I work across:
 
 ## 📈 GitHub Stats
 
-![SyntaxAdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyntaxAdi&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![SyntaxAdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyntaxAdi&show_icons=true&theme=dark&hide_border=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxAdi&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxAdi&layout=compact&theme=dark&hide_border=true&langs_count=8)
+## Current Work
 
-## 🎯 What I'm Currently Working On
-
-- **LLM Applications** — Building AI-powered tools with Gemini and Groq for real academic and client use cases
-- **Telegram Bot Architecture** — Expanding async modular bot systems with broader platform and media support
-- **Student Startup** — Co-founding an AI consultancy delivering LLM integrations and automation pipelines for clients
-- **Backend Engineering** — Designing and maintaining production FastAPI services with async data pipelines
-- **ML Deployment** — Experimenting with model hosting, Gradio interfaces, and inference optimization on free-tier infrastructure
+**LLM Applications**  
+Experimenting with Gemini and Groq APIs to build AI-assisted tools and workflow automation.
+**Telegram Bot Systems**  
+Developing modular Telegram bot architectures using async Python frameworks and MTProto libraries.
+**Automation Tools**  
+Creating scripts and utilities that automate repetitive workflows and integrate multiple APIs.
+**Backend Development**  
+Building lightweight backend services with FastAPI and asynchronous Python.
+**ML Experiments**  
+Testing model hosting setups using Hugging Face, Gradio interfaces, and free GPU environments such as Colab.
 
 ## 🤝 Let's Connect! 
-
-I'm always excited to collaborate on interesting projects, discuss cutting-edge tech, or explore new opportunities! 
-
+Open to collaborating on interesting technical projects, discussing engineering ideas, or exploring new opportunities.
 - **💼 LinkedIn:** [Coming soon]
 - **🐦 Twitter/X:** [Coming soon]
 - **📧 Email:** [Your email here]
