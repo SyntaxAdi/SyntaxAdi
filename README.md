@@ -1,3 +1,5 @@
+<img src="1.png" alt="SyntaxAdi Banner" width="100%">
+
 # Hi there!  👋 I'm SyntaxAdi
 
 I design and build automation-driven software using Python — Telegram bot infrastructures, backend services, and machine learning deployments. My focus is creating practical systems that solve real problems without unnecessary complexity.
