@@ -2,7 +2,7 @@
 
 # Hi there!  👋 I'm SyntaxAdi
 
-I design and build automation-driven software using Python — Telegram bot infrastructures, backend services, and AI-powered tools. My focus is creating practical systems that solve real problems without unnecessary complexity.
+I design and build automation-driven software using Python — Telegram bot infrastructures, backend services, and AI-assisted tools. My focus is creating practical systems that solve real problems without unnecessary complexity.
 
 ## About Me
 
@@ -14,7 +14,7 @@ Technically, I work across:
 - Python automation and bot frameworks (Telethon)
 - Backend service development with FastAPI
 - API integrations and workflow orchestration
-- ML model deployment with Hugging Face and Gradio
+- LLM integrations and lightweight AI tooling with Hugging Face and Gradio
 - DevOps and Linux-based deployment environments 
 
 ## Technical Stack
@@ -77,7 +77,7 @@ Technically, I work across:
 ---
 
 ### [ArthSaathi](https://github.com/SyntaxAdi/ArthSaathi)
-*AI-powered personal finance web app for Indian youth — hackathon build, deployed on Vercel*
+*AI-assisted personal finance web app for Indian youth — hackathon build, deployed on Vercel*
 
 **Stack:** React 18, Vite 5, Tailwind CSS, Framer Motion, Supabase (PostgreSQL + Auth + RLS), Groq API (LLaMA 3.3 70B), React Router DOM v7
 
@@ -119,30 +119,20 @@ Technically, I work across:
 - Entire site self-contained in a single 43KB `index.html` with embedded CSS and JS
 - Rotating anime/motivational quotes; `vercel.json` with SPA-style routing
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![SyntaxAdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyntaxAdi&show_icons=true&theme=dark&hide_border=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxAdi&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 ## Current Work
 
-**LLM Applications**  
-Experimenting with Gemini and Groq APIs to build AI-assisted tools and workflow automation.
+- Experimenting with LLM-powered Telegram automation tools using Gemini and Groq APIs
+- Developing modular async bot frameworks with Telethon for multi-feature Telegram systems
+- Building lightweight FastAPI services for automation workflows and API integrations
+- Testing lightweight LLM and AI integration setups with Hugging Face, Gradio, and free GPU environments
 
-**Telegram Bot Systems**  
-Developing modular Telegram bot architectures using async Python frameworks and MTProto libraries.
-
-**Automation Tools**  
-Creating scripts and utilities that automate repetitive workflows and integrate multiple APIs.
-
-**Backend Development**  
-Building lightweight backend services with FastAPI and asynchronous Python.
-
-**ML Experiments**  
-Testing model hosting setups using Hugging Face, Gradio interfaces, and free GPU environments such as Colab.
-
-## 🤝 Let's Connect! 
+## Let's Connect! 
 Open to collaborating on interesting technical projects, discussing engineering ideas, or exploring new opportunities.
-- **💼 LinkedIn:** [aaditya-pawar2004](https://www.linkedin.com/in/aaditya-pawar2004)
-- **📧 Email:** [aadityapawar00001@gmail.com](mailto:aadityapawar00001@gmail.com)
-- **💬 Telegram:** [@ItzAditya_xD](https://t.me/ItzAditya_xD)
-- **🌐 Portfolio:** [akenochan.my.id](https://akenochan.my.id)
+- **LinkedIn:** [aaditya-pawar2004](https://www.linkedin.com/in/aaditya-pawar2004)
+- **Email:** [aadityapawar00001@gmail.com](mailto:aadityapawar00001@gmail.com)
+- **Telegram:** [@ItzAditya_xD](https://t.me/ItzAditya_xD)
+- **Portfolio:** [akenochan.my.id](https://akenochan.my.id)
