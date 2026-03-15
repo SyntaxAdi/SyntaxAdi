@@ -1,4 +1,4 @@
-<img src="1.png" alt="SyntaxAdi Banner" width="50%">
+<img src="1.png" alt="SyntaxAdi Banner" width="50%" height="180">
 
 # Hi there!  👋 I'm SyntaxAdi
 
