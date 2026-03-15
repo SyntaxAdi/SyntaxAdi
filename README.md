@@ -167,12 +167,16 @@ Technically, I work across:
 
 **LLM Applications**  
 Experimenting with Gemini and Groq APIs to build AI-assisted tools and workflow automation.
+
 **Telegram Bot Systems**  
 Developing modular Telegram bot architectures using async Python frameworks and MTProto libraries.
+
 **Automation Tools**  
 Creating scripts and utilities that automate repetitive workflows and integrate multiple APIs.
+
 **Backend Development**  
 Building lightweight backend services with FastAPI and asynchronous Python.
+
 **ML Experiments**  
 Testing model hosting setups using Hugging Face, Gradio interfaces, and free GPU environments such as Colab.
 
