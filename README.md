@@ -133,4 +133,4 @@ Open to collaborating on interesting technical projects, discussing engineering 
 - **LinkedIn:** [aaditya-pawar2004](https://www.linkedin.com/in/aaditya-pawar2004)
 - **Email:** [aadityapawar00001@gmail.com](mailto:aadityapawar00001@gmail.com)
 - **Telegram:** [@ItzAditya_xD](https://t.me/ItzAditya_xD)
-- **Portfolio:** [akenochan.my.id](https://akenochan.my.id)
+- **Portfolio:** [syntaxadi.vercel.app](https://syntaxadi.vercel.app/)
